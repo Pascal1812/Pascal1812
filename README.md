@@ -10,9 +10,11 @@
 I'm a passionate developer with 3+ years of experience crafting performant backend systems and dynamic frontend experiences. I love tackling ambitious problems — from smart traffic simulations in Rust to scalable chat platforms in Go, I build things that solve real-world challenges.
 
 ## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pascal1812&theme=radical" alt="Pascal1812" />
-</p>
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Pascal1812&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+
+</div>
 
 ## 🛠️ My Tech Stack
 
