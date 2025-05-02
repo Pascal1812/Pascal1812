@@ -117,9 +117,9 @@ A RESTful API service for gaming product management and user interactions.
   <a href="https://www.linkedin.com/in/pascal-adama-sarr-88755112a">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://folio-topaz-seven.vercel.app/">
+  <!-- <a href="https://folio-topaz-seven.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:sarrpascal4458@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
