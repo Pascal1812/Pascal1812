@@ -110,7 +110,43 @@ A RESTful API service for gaming product management and user interactions.
 ## 🤝 Community Involvement
 - Active member in [zone01Dakar](https://www.zone01dakar.sn/) - a collective of 120+ developers
 - Regular contributor to local tech meetups and workshops
-- Mentoring junior developers in Rust and Go
+### Avenir de l'Enfant (ADE) - Digital Volunteer
+<img src="https://img.shields.io/badge/Started-May%202024-brightgreen?style=for-the-badge"/>
+
+Recently joined ADE (Future of the Child), an NGO dedicated to helping street children reunite with their families and build better futures.
+
+#### 🎯 Mission
+Supporting ADE's digital transformation to amplify their impact and reach in helping street children.
+
+#### 🚀 Upcoming Initiatives
+- **Website Development**
+  - Building a modern, responsive website from scratch
+  - Implementing user-friendly donation systems
+  - Creating an engaging platform to share success stories
+  - Developing a blog section for updates and news
+
+- **Social Media Strategy**
+  - Establishing strong social media presence
+  - Creating content guidelines and posting schedules
+  - Planning awareness campaigns
+  - Setting up analytics tracking
+
+#### 💡 Goals for 2025
+- Launch the organization's new website
+- Establish presence on key social media platforms
+- Create a digital content strategy
+- Implement basic analytics tracking
+- Build an initial online supporter base
+
+#### 🛠️ Technical Approach
+- Mobile-first responsive design
+- SEO-friendly architecture
+- Secure donation handling
+- Integrated social media feeds
+- Easy-to-update content management system
+
+#### 💪 Motivation
+"Using technology to give voice to those who need it most and help create meaningful change in children's lives."
 
 ## 📬 Connect With Me
 <p align="center">
