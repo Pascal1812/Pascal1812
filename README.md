@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Pascal+Adama+SARR;Full-Stack+Developer;DevOps+Loverr&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Pascal+A.+SARR;Full-Stack+Developer;DevOps+Lover&center=true&width=380&height=50">
 
   [![Visits Badge](https://badges.pufler.dev/visits/Pascal1812/Pascal1812)](https://badges.pufler.dev)
   [![Years Badge](https://badges.pufler.dev/years/Pascal1812)](https://badges.pufler.dev)
