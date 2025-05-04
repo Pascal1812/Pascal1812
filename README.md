@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Pas_dev;Full-Stack+Developer;DevOps+Engineer&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Pascal+Adama+SARR;Full-Stack+Developer;DevOps+Loverr&center=true&width=380&height=50">
 
   [![Visits Badge](https://badges.pufler.dev/visits/Pascal1812/Pascal1812)](https://badges.pufler.dev)
   [![Years Badge](https://badges.pufler.dev/years/Pascal1812)](https://badges.pufler.dev)
@@ -7,7 +7,7 @@
 </div>
 
 ## 💫 About Me
-I'm a passionate developer with 3+ years of experience crafting performant backend systems and dynamic frontend experiences. I love tackling ambitious problems — from smart traffic simulations in Rust to scalable chat platforms in Go, I build things that solve real-world challenges.
+I'm a passionate developer with 5+ years of experience crafting performant backend systems and dynamic frontend experiences. I love tackling ambitious problems — from smart traffic simulations in Rust to scalable chat platforms in Go, I build things that solve real-world challenges.
 
 ## 🔥 Streak Stats
 <div align="center">
