@@ -7,7 +7,24 @@
 </div>
 
 ## 💫 About Me
-I'm a passionate developer with 5+ years of experience crafting performant backend systems and dynamic frontend experiences. I love tackling ambitious problems — from smart traffic simulations in Rust to scalable chat platforms in Go, I build things that solve real-world challenges.
+
+I’m a passionate developer with over 5 years of experience building performant backends and dynamic frontends. I began my career as an electrotechnician—working for five years at companies like SENELEC and CFAO Technologies—before making the jump to software development in 2022.
+
+Since January 2025, I’ve been specializing in DevOps, driving projects that streamline infrastructure and deployment, including **Deep-in-Net**, **Deep-in-System**, **CRUD\_master**, **Play-with-containers**, and **Orchestration**. I thrive on tackling ambitious problems and turning complex challenges into reliable, scalable solutions.
+
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/pascal-adama-sarr-88755112a">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://folio-topaz-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="mailto:sarrpascal4458@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## 🔥 Streak Stats
 <div align="center">
@@ -56,18 +73,6 @@ I'm a passionate developer with 5+ years of experience crafting performant backe
 
 ## 🚀 Current Projects
 
-### 🎮 Twenty-Forty-Eight Game
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-A modern implementation of the classic 2048 sliding puzzle game.
-- **Tech Stack:** Flutter, Dart
-- **Key Features:**
-  - Responsive grid-based UI
-  - Smooth animations and gestures
-  - Score tracking and personal bests
-  - Local data persistence
-- **Learning Focus:** Mobile development, state management, and game logic implementation
-
 ### 🔄 Orchestrator
 <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
@@ -88,6 +93,19 @@ A comprehensive DevOps project focusing on microservices deployment and orchestr
   - Infrastructure automation
   - DevOps best practices
   - Scalability patterns
+
+
+### 🎮 Twenty-Forty-Eight Game
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+A modern implementation of the classic 2048 sliding puzzle game.
+- **Tech Stack:** Flutter, Dart
+- **Key Features:**
+  - Responsive grid-based UI
+  - Smooth animations and gestures
+  - Score tracking and personal bests
+  - Local data persistence
+- **Learning Focus:** Mobile development, state management, and game logic implementation
 
 ### 🎮 Let's Play API
 <img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -149,19 +167,6 @@ Supporting ADE's digital transformation to amplify their impact and reach in hel
 
 #### 💪 Motivation
 "Using technology to give voice to those who need it most and help create meaningful change in children's lives."
-
-## 📬 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/pascal-adama-sarr-88755112a">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- <a href="https://folio-topaz-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
-  </a> -->
-  <a href="mailto:sarrpascal4458@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
