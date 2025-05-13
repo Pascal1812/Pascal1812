@@ -10,7 +10,7 @@
 
 I’m a passionate developer with over 5 years of experience building performant backends and dynamic frontends. I began my career as an electrotechnician—working for five years at companies like SENELEC and CFAO Technologies—before making the jump to software development in 2022.
 
-Since January 2025, I’ve been specializing in DevOps, driving projects that streamline infrastructure and deployment, including **Deep-in-Net**, **Deep-in-System**, **CRUD\_master**, **Play-with-containers**, and **Orchestration**. I thrive on tackling ambitious problems and turning complex challenges into reliable, scalable solutions.
+Since November 2024, I’ve been specializing in DevOps, driving projects that streamline infrastructure and deployment, including **Deep-in-Net**, **Deep-in-System**, **CRUD\_master**, **Play-with-containers**, and **Orchestration**. I thrive on tackling ambitious problems and turning complex challenges into reliable, scalable solutions.
 
 
 ## 📬 Connect With Me
