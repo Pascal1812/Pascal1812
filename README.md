@@ -77,7 +77,7 @@ Since November 2024, I’ve been specializing in DevOps, driving projects that s
 ### Avenir de l'Enfant (ADE) - Digital Volunteer
 <img src="https://img.shields.io/badge/Started-May%202024-brightgreen?style=for-the-badge"/>
 
-Recently joined ADE (Future of the Child), an NGO dedicated to helping street children reunite with their families and build better futures.
+Recently joined ADE (Avenir de l'enfant), an NGO dedicated to helping street children reunite with their families and build better futures.
 
 #### 🎯 Mission
 Supporting ADE's digital transformation to amplify their impact and reach in helping street children.
