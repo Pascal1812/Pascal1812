@@ -10,7 +10,7 @@
 
 I’m a passionate developer with over 5 years of experience building performant backends and dynamic frontends. I began my career as an electrotechnician—working for five years at companies like SENELEC and CFAO Technologies—before making the jump to software development in 2022.
 
-Since November 2024, I’ve been specializing in DevOps, driving projects that streamline infrastructure and deployment, including **Deep-in-Net**, **Deep-in-System**, **CRUD\_master**, **Play-with-containers**, and **Orchestration**. I thrive on tackling ambitious problems and turning complex challenges into reliable, scalable solutions.
+Now i'm working as a Junior DevOps Engineer & System Administrator at at [!01Edu](https://01edu.ai)
 
 
 ## 📬 Connect With Me
@@ -70,47 +70,6 @@ Since November 2024, I’ve been specializing in DevOps, driving projects that s
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pascal1812&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Pascal1812" />
 </p>
-
-## 🤝 Community Involvement
-- Active member in [zone01Dakar](https://www.zone01dakar.sn/) - a collective of 120+ developers
-- Regular contributor to local tech meetups and workshops
-### Avenir de l'Enfant (ADE) - Digital Volunteer
-<img src="https://img.shields.io/badge/Started-May%202024-brightgreen?style=for-the-badge"/>
-
-Recently joined ADE (Avenir de l'enfant), an NGO dedicated to helping street children reunite with their families and build better futures.
-
-#### 🎯 Mission
-Supporting ADE's digital transformation to amplify their impact and reach in helping street children.
-
-#### 🚀 Upcoming Initiatives
-- **Website Development**
-  - Building a modern, responsive website from scratch
-  - Implementing user-friendly donation systems
-  - Creating an engaging platform to share success stories
-  - Developing a blog section for updates and news
-
-- **Social Media Strategy**
-  - Establishing strong social media presence
-  - Creating content guidelines and posting schedules
-  - Planning awareness campaigns
-  - Setting up analytics tracking
-
-#### 💡 Goals for 2025
-- Launch the organization's new website
-- Establish presence on key social media platforms
-- Create a digital content strategy
-- Implement basic analytics tracking
-- Build an initial online supporter base
-
-#### 🛠️ Technical Approach
-- Mobile-first responsive design
-- SEO-friendly architecture
-- Secure donation handling
-- Integrated social media feeds
-- Easy-to-update content management system
-
-#### 💪 Motivation
-"Using technology to give voice to those who need it most and help create meaningful change in children's lives."
 
 ---
 
